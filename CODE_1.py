@@ -1,5 +1,6 @@
 #House Prices: Advanced Regression Techniques
 #Very Simple and Basic Linear Regression code without any modeling
+#Kaggle Score : 0.39792
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
